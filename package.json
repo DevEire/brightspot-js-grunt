@@ -12,27 +12,29 @@
     "bsp-grunt.js"
   ],
   "main": "bsp-grunt.js",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git://github.com/perfectsense/brightspot-js-grunt"
   },
   "dependencies": {
-    "autoprefixer": "6.1.0",
-    "babel-core": "5.6.20",
-    "bower": "^1.7.6",
-    "dotenv": "^2.0.0",
+    "autoprefixer": "10.4.15",
+    "babel-core": "6.26.3",
+    "bower": "1.8.14",
+    "dotenv": "16.3.1",
     "es6-module-loader": "0.17.8",
-    "extend": "3.0.0",
-    "grunt-bower-install-simple": "1.1.4",
-    "grunt-contrib-clean": "0.7.0",
-    "grunt-contrib-copy": "0.8.2",
-    "grunt-contrib-less": "1.1.0",
-    "grunt-contrib-watch": "0.6.1",
-    "grunt-jsonlint": "1.0.6",
-    "grunt-postcss": "0.7.1",
-    "lodash": "^4.0.0",
+    "extend": "3.0.2",
+    "grunt-bower-install-simple": "1.2.8",
+    "grunt-contrib-clean": "2.0.1",
+    "grunt-contrib-copy": "1.0.0",
+    "grunt-contrib-less": "3.0.0",
+    "grunt-contrib-watch": "1.1.0",
+    "grunt-jsonlint": "2.1.3",
+    "postcss": "8.4.29",
+    "grunt-postcss": "0.9.0",
+    "lodash": "4.17.21",
     "path": "0.12.7",
-    "systemjs-builder": "0.14.10",
-    "xml2js": "0.4.15"
+    "systemjs-builder": "0.16.15",
+    "xml2js": "0.6.2"
   }
 }
